@@ -8,6 +8,6 @@ Performed tasks:
 
 <br>
 
-## Project screenshots
+## Project screenshot
 
 <img src=".github/go-restaurant-project-screenshot-1.png">
